@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Mallikarjuna Portfolio
 
-## Getting Started
+A modern, recruiter-focused portfolio website built with **Next.js**, **TypeScript**, and modern web technologies to showcase my journey as an **ML Engineer**, **Full Stack Developer**, and **Research-Oriented Builder**.
 
-First, run the development server:
+> ⚠️ **Portfolio Status:** This portfolio is currently under active development. New features, projects, animations, and improvements are being added regularly.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 About
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This portfolio is designed to showcase:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* Artificial Intelligence & Machine Learning projects
+* Full Stack Development projects
+* Research work and technical explorations
+* Certifications and achievements
+* Skills, technologies, and development experience
+* Professional profile and contact information
 
-## Learn More
+The goal is to create a premium portfolio experience inspired by modern product companies such as Apple, Vercel, Linear, Stripe, and OpenAI.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Frontend
 
-## Deploy on Vercel
+* Next.js 16
+* React
+* TypeScript
+* Tailwind CSS
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Animations & UI
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Framer Motion
+* Lenis Smooth Scrolling
+* React Type Animation
+* React Parallax Tilt
+
+### 3D & Interactive Experience
+
+* React Three Fiber
+* Drei
+* Three.js
+
+### Development Tools
+
+* Git
+* GitHub
+* Vercel
+
+---
+
+## ✨ Features
+
+* Modern AI/ML focused portfolio design
+* Responsive layout for all devices
+* Interactive Hero Section
+* About & Experience Timeline
+* Expertise Showcase
+* Skill Galaxy
+* Project Showcase
+* Certifications Timeline
+* Contact Section
+* Smooth Scrolling Experience
+* Interactive 3D Background
+* SEO Optimized Architecture
+
+
+---
+
+## 🚧 Current Development Roadmap
+
+The portfolio is still being enhanced with:
+
+* Improved project case studies
+* Real project screenshots and visualizations
+* Enhanced 3D interactions
+* Advanced animations
+* Improved accessibility
+* Better mobile experience
+* Contact form integration
+* Performance optimizations
+* Custom domain setup
+
+---
+
+## 📈 Future Enhancements
+
+* AI-powered portfolio assistant
+* Interactive project demos
+* Blog section
+* Research publications showcase
+* Advanced analytics dashboard
+* Dark/Light theme support
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/yaravampalli-dharmapalappagari-mallikarjuna](http://www.linkedin.com/in/yaravampalli-dharmapalappagari-mallikarjuna)
+* GitHub: https://github.com/Ydmallikarjuna1
+
+
+---
+
+## 📄 License
+
+This project is intended for personal portfolio and educational purposes.
+
+---
+
+### ⭐ Note
+
+This portfolio is actively evolving. Feedback, suggestions, and collaboration opportunities are always welcome.
