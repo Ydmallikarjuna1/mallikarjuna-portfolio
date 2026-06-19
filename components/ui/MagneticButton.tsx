@@ -1,12 +1,17 @@
 "use client";
 
 import { motion } from "framer-motion";
+import React from "react";
+
+interface MagneticButtonProps {
+  children: React.ReactNode;
+  className?: string;
+}
 
 export default function MagneticButton({
   children,
-}: {
-  children: React.ReactNode;
-}) {
+  className = "",
+}: MagneticButtonProps) {
   return (
     <motion.button
       whileHover={{
@@ -15,18 +20,7 @@ export default function MagneticButton({
       whileTap={{
         scale: 0.95,
       }}
-      className="
-      px-6
-      py-3
-
-      rounded-xl
-
-      bg-violet-600
-
-      hover:bg-violet-500
-
-      transition-all
-      "
+      className={className}
     >
       {children}
     </motion.button>
